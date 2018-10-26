@@ -3,6 +3,7 @@
 
 #include <vector>
 #include <queue>
+#include <algorithm>
 #include "edge.hpp"
 using namespace std;
 
